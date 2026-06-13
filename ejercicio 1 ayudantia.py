@@ -29,7 +29,7 @@ while True:
                     contador_entrenamiento += 1
             
             print(f"Se registraron {contador_legendario} Heroe(s) Legendarios y {contador_entrenamiento} Heroe(s) en Entrenamiento.")
-            
+          #comntario  
             break
         else:
             print("Cantidad invalida. Debe ingresar un entero positivo.")
